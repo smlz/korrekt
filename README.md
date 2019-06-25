@@ -27,3 +27,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Links
+
+[Dokumentation PDF.js](https://mozilla.github.io/pdf.js/examples/).
+[Mouse Selection](http://fabricjs.com/events)
